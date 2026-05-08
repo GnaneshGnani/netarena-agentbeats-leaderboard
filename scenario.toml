@@ -14,6 +14,7 @@ name = "malt_operator"
     MALT_FEW_SHOT = "1"
 
 [config]
+# Manual README workflow submission: few-shot.
 prompt_type = "zeroshot_base"
 complexity_level = ["level1", "level2", "level3"]
 num_queries = 3
