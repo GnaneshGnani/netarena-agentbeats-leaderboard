@@ -13,6 +13,7 @@ name = "malt_operator"
     MODEL_NAME = "openai/Qwen/Qwen3-Next-80B-A3B-Thinking"
 
 [config]
+# Manual README workflow submission: zero-shot.
 prompt_type = "zeroshot_base"
 complexity_level = ["level1", "level2", "level3"]
 num_queries = 3
